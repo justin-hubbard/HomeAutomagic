@@ -1,0 +1,2 @@
+# HomeAutomagic
+Goin nuts fam
