@@ -1,2 +1,2 @@
 # HomeAutomagic
-Goin nuts fam
+Project for files pertaining to IoT experiements and related items.
